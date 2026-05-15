@@ -1,4 +1,4 @@
-# 
+# rare GIMP for PC | GIMP for Windows Plugin | export-presets + non-destructive-editing is the best GIMP for PC | GIMP for Windows plugin, featuring export-presets and
 
 
 
